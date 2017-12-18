@@ -1,0 +1,375 @@
+2017-12-19 00:32:06,404 [INFO] profit: 2219.590842 JOY with volume: 0.874322 BTC - buy at 2166768.0000 (CoincheckBTCJPY) sell at 2168828.0000 (BitflyerBTCJPY) ~0.12%
+2017-12-19 00:32:26,421 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:32:26,423 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:32:31,562 [INFO] profit: 546.613898  with volume: 0.428872 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.06%
+2017-12-19 00:32:31,562 [INFO] profit: 546.613898 JOY with volume: 0.428872 BTC - buy at 2168592.0000 (CoincheckBTCJPY) sell at 2168900.0000 (BitflyerBTCJPY) ~0.06%
+2017-12-19 00:32:51,578 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:32:51,579 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:32:51,711 [INFO] profit: 1195.036384  with volume: 0.497942 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.11%
+2017-12-19 00:32:51,711 [INFO] profit: 1195.036384 JOY with volume: 0.497942 BTC - buy at 2166229.0000 (CoincheckBTCJPY) sell at 2167580.0000 (BitflyerBTCJPY) ~0.11%
+2017-12-19 00:33:11,714 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:33:11,715 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:33:11,861 [INFO] profit: 2036.566328  with volume: 0.645325 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.15%
+2017-12-19 00:33:11,861 [INFO] profit: 2036.566328 JOY with volume: 0.645325 BTC - buy at 2164287.0000 (CoincheckBTCJPY) sell at 2166170.0000 (BitflyerBTCJPY) ~0.15%
+2017-12-19 00:33:31,882 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:33:31,884 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:33:37,051 [INFO] profit: 165.093523  with volume: 0.047581 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.16%
+2017-12-19 00:33:37,051 [INFO] profit: 165.093523 JOY with volume: 0.047581 BTC - buy at 2165081.0000 (CoincheckBTCJPY) sell at 2167219.0000 (BitflyerBTCJPY) ~0.16%
+2017-12-19 00:33:57,061 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:33:57,063 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:33:57,239 [INFO] profit: 1949.828150  with volume: 0.854673 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.11%
+2017-12-19 00:33:57,240 [INFO] profit: 1949.828150 JOY with volume: 0.854673 BTC - buy at 2166998.0000 (CoincheckBTCJPY) sell at 2167372.0000 (BitflyerBTCJPY) ~0.11%
+2017-12-19 00:34:17,242 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:34:17,243 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:34:17,366 [INFO] profit: 655.419523  with volume: 0.405715 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.07%
+2017-12-19 00:34:17,366 [INFO] profit: 655.419523 JOY with volume: 0.405715 BTC - buy at 2168400.0000 (CoincheckBTCJPY) sell at 2169090.0000 (BitflyerBTCJPY) ~0.07%
+2017-12-19 00:34:37,385 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:34:37,387 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:34:42,706 [INFO] profit: 657.689874  with volume: 0.575350 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.05%
+2017-12-19 00:34:42,706 [INFO] profit: 657.689874 JOY with volume: 0.575350 BTC - buy at 2168000.0000 (CoincheckBTCJPY) sell at 2169090.0000 (BitflyerBTCJPY) ~0.05%
+2017-12-19 00:35:02,728 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:35:02,730 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:35:02,870 [INFO] profit: 269.484131  with volume: 0.168486 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.07%
+2017-12-19 00:35:02,870 [INFO] profit: 269.484131 JOY with volume: 0.168486 BTC - buy at 2168592.0000 (CoincheckBTCJPY) sell at 2170005.0000 (BitflyerBTCJPY) ~0.07%
+2017-12-19 00:35:22,891 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:35:22,892 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:35:23,976 [INFO] profit: 349.290591  with volume: 1.749250 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.01%
+2017-12-19 00:35:23,976 [INFO] profit: 349.290591 JOY with volume: 1.749250 BTC - buy at 2170000.0000 (CoincheckBTCJPY) sell at 2170183.0000 (BitflyerBTCJPY) ~0.01%
+2017-12-19 00:35:43,987 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:35:43,992 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:35:44,167 [INFO] profit: 986.334437  with volume: 0.326589 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.14%
+2017-12-19 00:35:44,167 [INFO] profit: 986.334437 JOY with volume: 0.326589 BTC - buy at 2169158.0000 (CoincheckBTCJPY) sell at 2170183.0000 (BitflyerBTCJPY) ~0.14%
+2017-12-19 00:36:04,188 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:36:04,190 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:36:04,326 [INFO] profit: 2307.039637  with volume: 0.768625 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.14%
+2017-12-19 00:36:04,326 [INFO] profit: 2307.039637 JOY with volume: 0.768625 BTC - buy at 2167188.0000 (CoincheckBTCJPY) sell at 2170000.0000 (BitflyerBTCJPY) ~0.14%
+2017-12-19 00:36:24,348 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:36:24,349 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:36:24,464 [INFO] profit: 1098.179000  with volume: 0.471000 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.11%
+2017-12-19 00:36:24,464 [INFO] profit: 1098.179000 JOY with volume: 0.471000 BTC - buy at 2167599.0000 (CoincheckBTCJPY) sell at 2168564.0000 (BitflyerBTCJPY) ~0.11%
+2017-12-19 00:36:44,475 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:36:44,477 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:36:44,592 [INFO] profit: 356.725838  with volume: 0.135287 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.12%
+2017-12-19 00:36:44,592 [INFO] profit: 356.725838 JOY with volume: 0.135287 BTC - buy at 2167599.0000 (CoincheckBTCJPY) sell at 2169000.0000 (BitflyerBTCJPY) ~0.12%
+2017-12-19 00:37:04,605 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:37:04,606 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:37:04,741 [INFO] profit: 153.737895  with volume: 0.250020 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.03%
+2017-12-19 00:37:04,741 [INFO] profit: 153.737895 JOY with volume: 0.250020 BTC - buy at 2169748.0000 (CoincheckBTCJPY) sell at 2170000.0000 (BitflyerBTCJPY) ~0.03%
+2017-12-19 00:37:24,759 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:37:24,761 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:37:24,888 [INFO] profit: 1229.712590  with volume: 0.438950 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.13%
+2017-12-19 00:37:24,889 [INFO] profit: 1229.712590 JOY with volume: 0.438950 BTC - buy at 2167936.0000 (CoincheckBTCJPY) sell at 2169237.0000 (BitflyerBTCJPY) ~0.13%
+2017-12-19 00:37:44,908 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:37:44,910 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:37:45,036 [INFO] profit: 2890.208120  with volume: 0.701086 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.19%
+2017-12-19 00:37:45,036 [INFO] profit: 2890.208120 JOY with volume: 0.701086 BTC - buy at 2164424.0000 (CoincheckBTCJPY) sell at 2166965.0000 (BitflyerBTCJPY) ~0.19%
+2017-12-19 00:38:05,057 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:38:05,058 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:38:10,180 [INFO] profit: 5880.790203  with volume: 2.112517 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.13%
+2017-12-19 00:38:10,180 [INFO] profit: 5880.790203 JOY with volume: 2.112517 BTC - buy at 2163950.0000 (CoincheckBTCJPY) sell at 2165425.0000 (BitflyerBTCJPY) ~0.13%
+2017-12-19 00:38:30,182 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:38:30,183 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:38:30,472 [INFO] profit: 792.582578  with volume: 0.502896 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.07%
+2017-12-19 00:38:30,472 [INFO] profit: 792.582578 JOY with volume: 0.502896 BTC - buy at 2166567.0000 (CoincheckBTCJPY) sell at 2166623.0000 (BitflyerBTCJPY) ~0.07%
+2017-12-19 00:38:50,493 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:38:50,495 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:38:51,505 [INFO] profit: 1034.587814  with volume: 0.825236 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.06%
+2017-12-19 00:38:51,505 [INFO] profit: 1034.587814 JOY with volume: 0.825236 BTC - buy at 2166524.0000 (CoincheckBTCJPY) sell at 2166637.0000 (BitflyerBTCJPY) ~0.06%
+2017-12-19 00:39:11,528 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:39:11,530 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:39:16,654 [INFO] profit: 1465.660580  with volume: 1.046805 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.06%
+2017-12-19 00:39:16,655 [INFO] profit: 1465.660580 JOY with volume: 1.046805 BTC - buy at 2166837.0000 (CoincheckBTCJPY) sell at 2167542.0000 (BitflyerBTCJPY) ~0.06%
+2017-12-19 00:39:36,676 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:39:36,677 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:39:41,817 [INFO] profit: 566.071075  with volume: 0.205379 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.13%
+2017-12-19 00:39:41,817 [INFO] profit: 566.071075 JOY with volume: 0.205379 BTC - buy at 2167200.0000 (CoincheckBTCJPY) sell at 2168095.0000 (BitflyerBTCJPY) ~0.13%
+2017-12-19 00:40:01,826 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:40:01,827 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:40:06,969 [INFO] profit: 902.707776  with volume: 0.425362 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.10%
+2017-12-19 00:40:06,969 [INFO] profit: 902.707776 JOY with volume: 0.425362 BTC - buy at 2169000.0000 (CoincheckBTCJPY) sell at 2169707.0000 (BitflyerBTCJPY) ~0.10%
+2017-12-19 00:40:26,973 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:40:26,974 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:40:27,093 [INFO] profit: 737.173657  with volume: 0.713880 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.05%
+2017-12-19 00:40:27,093 [INFO] profit: 737.173657 JOY with volume: 0.713880 BTC - buy at 2169748.0000 (CoincheckBTCJPY) sell at 2170505.0000 (BitflyerBTCJPY) ~0.05%
+2017-12-19 00:40:47,108 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:40:47,109 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:40:52,266 [INFO] profit: 352.676765  with volume: 0.138952 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.12%
+2017-12-19 00:40:52,266 [INFO] profit: 352.676765 JOY with volume: 0.138952 BTC - buy at 2168219.0000 (CoincheckBTCJPY) sell at 2170518.0000 (BitflyerBTCJPY) ~0.12%
+2017-12-19 00:41:12,271 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:41:12,272 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:41:17,411 [INFO] profit: 303.692892  with volume: 0.538633 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.03%
+2017-12-19 00:41:17,411 [INFO] profit: 303.692892 JOY with volume: 0.538633 BTC - buy at 2169999.0000 (CoincheckBTCJPY) sell at 2170518.0000 (BitflyerBTCJPY) ~0.03%
+2017-12-19 00:41:37,430 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:41:37,431 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:41:37,586 [INFO] profit: 279.785960  with volume: 0.510040 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.03%
+2017-12-19 00:41:37,586 [INFO] profit: 279.785960 JOY with volume: 0.510040 BTC - buy at 2170500.0000 (CoincheckBTCJPY) sell at 2170505.0000 (BitflyerBTCJPY) ~0.03%
+2017-12-19 00:41:57,607 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:41:57,608 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:41:57,784 [INFO] profit: 990.742395  with volume: 1.965379 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.02%
+2017-12-19 00:41:57,784 [INFO] profit: 990.742395 JOY with volume: 1.965379 BTC - buy at 2170000.0000 (CoincheckBTCJPY) sell at 2170338.0000 (BitflyerBTCJPY) ~0.02%
+2017-12-19 00:42:17,804 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:42:17,806 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:42:17,924 [INFO] profit: 155.453327  with volume: 0.603388 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.01%
+2017-12-19 00:42:17,924 [INFO] profit: 155.453327 JOY with volume: 0.603388 BTC - buy at 2168744.0000 (CoincheckBTCJPY) sell at 2168774.0000 (BitflyerBTCJPY) ~0.01%
+2017-12-19 00:42:37,945 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:42:37,947 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:42:43,107 [INFO] profit: 51.929504  with volume: 0.093762 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.03%
+2017-12-19 00:42:43,107 [INFO] profit: 51.929504 JOY with volume: 0.093762 BTC - buy at 2168760.0000 (CoincheckBTCJPY) sell at 2168776.0000 (BitflyerBTCJPY) ~0.03%
+2017-12-19 00:43:03,126 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:43:03,127 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:43:03,433 [INFO] profit: 27.754738  with volume: 0.156445 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.01%
+2017-12-19 00:43:03,433 [INFO] profit: 27.754738 JOY with volume: 0.156445 BTC - buy at 2168355.0000 (CoincheckBTCJPY) sell at 2168530.0000 (BitflyerBTCJPY) ~0.01%
+2017-12-19 00:43:23,446 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:43:23,447 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:43:28,571 [INFO] profit: 135.619680  with volume: 0.352859 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.02%
+2017-12-19 00:43:28,571 [INFO] profit: 135.619680 JOY with volume: 0.352859 BTC - buy at 2168163.0000 (CoincheckBTCJPY) sell at 2168530.0000 (BitflyerBTCJPY) ~0.02%
+2017-12-19 00:43:48,591 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:43:48,592 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:43:48,738 [INFO] profit: 554.966664  with volume: 0.452900 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.06%
+2017-12-19 00:43:48,738 [INFO] profit: 554.966664 JOY with volume: 0.452900 BTC - buy at 2167438.0000 (CoincheckBTCJPY) sell at 2168530.0000 (BitflyerBTCJPY) ~0.06%
+2017-12-19 00:44:08,760 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:44:08,762 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:44:13,878 [INFO] profit: 171.694000  with volume: 0.083000 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.10%
+2017-12-19 00:44:13,878 [INFO] profit: 171.694000 JOY with volume: 0.083000 BTC - buy at 2165154.0000 (CoincheckBTCJPY) sell at 2167000.0000 (BitflyerBTCJPY) ~0.10%
+2017-12-19 00:44:33,899 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:44:33,900 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:44:34,023 [INFO] profit: 929.003000  with volume: 0.642500 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.07%
+2017-12-19 00:44:34,023 [INFO] profit: 929.003000 JOY with volume: 0.642500 BTC - buy at 2163999.0000 (CoincheckBTCJPY) sell at 2165000.0000 (BitflyerBTCJPY) ~0.07%
+2017-12-19 00:44:54,044 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:44:54,045 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:44:59,180 [INFO] profit: 321.687040  with volume: 0.442034 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.03%
+2017-12-19 00:44:59,180 [INFO] profit: 321.687040 JOY with volume: 0.442034 BTC - buy at 2164045.0000 (CoincheckBTCJPY) sell at 2164389.0000 (BitflyerBTCJPY) ~0.03%
+2017-12-19 00:45:19,201 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:45:19,202 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:45:24,331 [INFO] profit: 1190.719925  with volume: 0.653135 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.08%
+2017-12-19 00:45:24,332 [INFO] profit: 1190.719925 JOY with volume: 0.653135 BTC - buy at 2162461.0000 (CoincheckBTCJPY) sell at 2162715.0000 (BitflyerBTCJPY) ~0.08%
+2017-12-19 00:45:44,350 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:45:44,351 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:45:49,491 [INFO] profit: 5502.555005  with volume: 1.206901 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.21%
+2017-12-19 00:45:49,491 [INFO] profit: 5502.555005 JOY with volume: 1.206901 BTC - buy at 2159608.0000 (CoincheckBTCJPY) sell at 2162715.0000 (BitflyerBTCJPY) ~0.21%
+2017-12-19 00:46:09,510 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:46:09,512 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:46:09,639 [INFO] profit: 2617.628000  with volume: 0.946000 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.13%
+2017-12-19 00:46:09,639 [INFO] profit: 2617.628000 JOY with volume: 0.946000 BTC - buy at 2158728.0000 (CoincheckBTCJPY) sell at 2160321.0000 (BitflyerBTCJPY) ~0.13%
+2017-12-19 00:46:29,673 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:46:29,676 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:46:29,894 [INFO] profit: 1627.987449  with volume: 0.769000 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.10%
+2017-12-19 00:46:29,894 [INFO] profit: 1627.987449 JOY with volume: 0.769000 BTC - buy at 2160517.0000 (CoincheckBTCJPY) sell at 2162372.0000 (BitflyerBTCJPY) ~0.10%
+2017-12-19 00:46:49,903 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:46:49,904 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:46:50,021 [INFO] profit: 7.800000  with volume: 0.015600 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.02%
+2017-12-19 00:46:50,021 [INFO] profit: 7.800000 JOY with volume: 0.015600 BTC - buy at 2163419.0000 (CoincheckBTCJPY) sell at 2163919.0000 (BitflyerBTCJPY) ~0.02%
+2017-12-19 00:47:10,038 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:47:10,039 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:47:15,150 [INFO] profit: 4800.892810  with volume: 2.531145 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.09%
+2017-12-19 00:47:15,150 [INFO] profit: 4800.892810 JOY with volume: 2.531145 BTC - buy at 2160028.0000 (CoincheckBTCJPY) sell at 2161500.0000 (BitflyerBTCJPY) ~0.09%
+2017-12-19 00:47:35,170 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:47:35,171 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:47:40,299 [INFO] profit: 3655.695180  with volume: 1.123329 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.15%
+2017-12-19 00:47:40,299 [INFO] profit: 3655.695180 JOY with volume: 1.123329 BTC - buy at 2157999.0000 (CoincheckBTCJPY) sell at 2159414.0000 (BitflyerBTCJPY) ~0.15%
+2017-12-19 00:48:00,318 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:48:00,319 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:48:00,419 [INFO] profit: 808.191996  with volume: 0.260667 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.14%
+2017-12-19 00:48:00,419 [INFO] profit: 808.191996 JOY with volume: 0.260667 BTC - buy at 2157390.0000 (CoincheckBTCJPY) sell at 2159600.0000 (BitflyerBTCJPY) ~0.14%
+2017-12-19 00:48:20,432 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:48:20,433 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:48:20,566 [INFO] profit: 459.193600  with volume: 0.249900 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.09%
+2017-12-19 00:48:20,566 [INFO] profit: 459.193600 JOY with volume: 0.249900 BTC - buy at 2159520.0000 (CoincheckBTCJPY) sell at 2160597.0000 (BitflyerBTCJPY) ~0.09%
+2017-12-19 00:48:40,589 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:48:40,590 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:48:45,725 [INFO] profit: 364.676189  with volume: 0.381061 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.04%
+2017-12-19 00:48:45,725 [INFO] profit: 364.676189 JOY with volume: 0.381061 BTC - buy at 2160999.0000 (CoincheckBTCJPY) sell at 2161030.0000 (BitflyerBTCJPY) ~0.04%
+2017-12-19 00:49:05,752 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:49:05,754 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:49:05,885 [INFO] profit: 1560.352060  with volume: 0.481725 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.15%
+2017-12-19 00:49:05,885 [INFO] profit: 1560.352060 JOY with volume: 0.481725 BTC - buy at 2159474.0000 (CoincheckBTCJPY) sell at 2162000.0000 (BitflyerBTCJPY) ~0.15%
+2017-12-19 00:49:25,911 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:49:25,913 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:49:31,018 [INFO] profit: 799.149475  with volume: 0.281039 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.13%
+2017-12-19 00:49:31,018 [INFO] profit: 799.149475 JOY with volume: 0.281039 BTC - buy at 2158005.0000 (CoincheckBTCJPY) sell at 2160000.0000 (BitflyerBTCJPY) ~0.13%
+2017-12-19 00:49:51,022 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:49:51,023 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:49:56,118 [INFO] profit: 1116.871277  with volume: 0.746355 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.07%
+2017-12-19 00:49:56,118 [INFO] profit: 1116.871277 JOY with volume: 0.746355 BTC - buy at 2159993.0000 (CoincheckBTCJPY) sell at 2161001.0000 (BitflyerBTCJPY) ~0.07%
+2017-12-19 00:50:16,139 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:50:16,140 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:50:21,228 [INFO] profit: 1355.633088  with volume: 0.364915 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.17%
+2017-12-19 00:50:21,228 [INFO] profit: 1355.633088 JOY with volume: 0.364915 BTC - buy at 2161518.0000 (CoincheckBTCJPY) sell at 2164005.0000 (BitflyerBTCJPY) ~0.17%
+2017-12-19 00:50:41,249 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:50:41,250 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:50:46,411 [INFO] profit: 1941.363873  with volume: 0.498360 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.18%
+2017-12-19 00:50:46,411 [INFO] profit: 1941.363873 JOY with volume: 0.498360 BTC - buy at 2161709.0000 (CoincheckBTCJPY) sell at 2165069.0000 (BitflyerBTCJPY) ~0.18%
+2017-12-19 00:51:06,415 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:51:06,417 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:51:06,581 [INFO] profit: 1232.143761  with volume: 0.247790 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.23%
+2017-12-19 00:51:06,581 [INFO] profit: 1232.143761 JOY with volume: 0.247790 BTC - buy at 2162100.0000 (CoincheckBTCJPY) sell at 2165544.0000 (BitflyerBTCJPY) ~0.23%
+2017-12-19 00:51:26,584 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:51:26,585 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:51:31,712 [INFO] profit: 951.620472  with volume: 0.257489 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.17%
+2017-12-19 00:51:31,712 [INFO] profit: 951.620472 JOY with volume: 0.257489 BTC - buy at 2162999.0000 (CoincheckBTCJPY) sell at 2165717.0000 (BitflyerBTCJPY) ~0.17%
+2017-12-19 00:51:51,742 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:51:51,744 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:51:51,869 [INFO] profit: 1225.584286  with volume: 0.283141 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.20%
+2017-12-19 00:51:51,869 [INFO] profit: 1225.584286 JOY with volume: 0.283141 BTC - buy at 2159124.0000 (CoincheckBTCJPY) sell at 2162351.0000 (BitflyerBTCJPY) ~0.20%
+2017-12-19 00:52:11,882 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:52:11,883 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:52:12,008 [INFO] profit: 5408.404868  with volume: 1.578600 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.16%
+2017-12-19 00:52:12,008 [INFO] profit: 5408.404868 JOY with volume: 1.578600 BTC - buy at 2160600.0000 (CoincheckBTCJPY) sell at 2162329.0000 (BitflyerBTCJPY) ~0.16%
+2017-12-19 00:52:32,025 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:52:32,026 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:52:32,164 [INFO] profit: 1888.963860  with volume: 0.990237 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.09%
+2017-12-19 00:52:32,164 [INFO] profit: 1888.963860 JOY with volume: 0.990237 BTC - buy at 2163005.0000 (CoincheckBTCJPY) sell at 2164179.0000 (BitflyerBTCJPY) ~0.09%
+2017-12-19 00:52:52,175 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:52:52,176 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:52:52,352 [INFO] profit: 735.924887  with volume: 0.151587 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.22%
+2017-12-19 00:52:52,352 [INFO] profit: 735.924887 JOY with volume: 0.151587 BTC - buy at 2162019.0000 (CoincheckBTCJPY) sell at 2166534.0000 (BitflyerBTCJPY) ~0.22%
+2017-12-19 00:53:12,374 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:53:12,375 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:53:12,510 [INFO] profit: 2001.797564  with volume: 0.419033 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.22%
+2017-12-19 00:53:12,510 [INFO] profit: 2001.797564 JOY with volume: 0.419033 BTC - buy at 2161999.0000 (CoincheckBTCJPY) sell at 2165735.0000 (BitflyerBTCJPY) ~0.22%
+2017-12-19 00:53:32,531 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:53:32,532 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:53:37,670 [INFO] profit: 578.535449  with volume: 0.133987 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.20%
+2017-12-19 00:53:37,670 [INFO] profit: 578.535449 JOY with volume: 0.133987 BTC - buy at 2162600.0000 (CoincheckBTCJPY) sell at 2166425.0000 (BitflyerBTCJPY) ~0.20%
+2017-12-19 00:53:57,690 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:53:57,692 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:54:02,799 [INFO] profit: 4137.022217  with volume: 1.055000 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.18%
+2017-12-19 00:54:02,800 [INFO] profit: 4137.022217 JOY with volume: 1.055000 BTC - buy at 2160999.0000 (CoincheckBTCJPY) sell at 2163000.0000 (BitflyerBTCJPY) ~0.18%
+2017-12-19 00:54:22,822 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:54:22,823 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:54:28,120 [INFO] profit: 2566.728174  with volume: 0.739800 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.16%
+2017-12-19 00:54:28,120 [INFO] profit: 2566.728174 JOY with volume: 0.739800 BTC - buy at 2159730.0000 (CoincheckBTCJPY) sell at 2162329.0000 (BitflyerBTCJPY) ~0.16%
+2017-12-19 00:54:48,143 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:54:48,145 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:54:53,280 [INFO] profit: 1396.175000  with volume: 0.425000 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.15%
+2017-12-19 00:54:53,280 [INFO] profit: 1396.175000 JOY with volume: 0.425000 BTC - buy at 2159999.0000 (CoincheckBTCJPY) sell at 2163001.0000 (BitflyerBTCJPY) ~0.15%
+2017-12-19 00:55:13,288 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:55:13,289 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:55:14,387 [INFO] profit: 6164.276739  with volume: 1.236863 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.23%
+2017-12-19 00:55:14,387 [INFO] profit: 6164.276739 JOY with volume: 1.236863 BTC - buy at 2158714.0000 (CoincheckBTCJPY) sell at 2162201.0000 (BitflyerBTCJPY) ~0.23%
+2017-12-19 00:55:34,403 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:55:34,405 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:55:39,541 [INFO] profit: 6256.357957  with volume: 1.037000 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.28%
+2017-12-19 00:55:39,541 [INFO] profit: 6256.357957 JOY with volume: 1.037000 BTC - buy at 2156999.0000 (CoincheckBTCJPY) sell at 2162200.0000 (BitflyerBTCJPY) ~0.28%
+2017-12-19 00:55:59,567 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:55:59,568 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:56:04,672 [INFO] profit: 2114.722145  with volume: 0.358203 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.27%
+2017-12-19 00:56:04,672 [INFO] profit: 2114.722145 JOY with volume: 0.358203 BTC - buy at 2158248.0000 (CoincheckBTCJPY) sell at 2163580.0000 (BitflyerBTCJPY) ~0.27%
+2017-12-19 00:56:24,677 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:56:24,679 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:56:24,858 [INFO] profit: 2106.878587  with volume: 0.584586 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.17%
+2017-12-19 00:56:24,858 [INFO] profit: 2106.878587 JOY with volume: 0.584586 BTC - buy at 2161001.0000 (CoincheckBTCJPY) sell at 2164245.0000 (BitflyerBTCJPY) ~0.17%
+2017-12-19 00:56:44,878 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:56:44,880 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:56:45,063 [INFO] profit: 3557.679860  with volume: 0.508652 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.32%
+2017-12-19 00:56:45,063 [INFO] profit: 3557.679860 JOY with volume: 0.508652 BTC - buy at 2157468.0000 (CoincheckBTCJPY) sell at 2162372.0000 (BitflyerBTCJPY) ~0.32%
+2017-12-19 00:57:05,079 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:57:05,080 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:57:10,354 [INFO] profit: 3313.234367  with volume: 0.583195 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.26%
+2017-12-19 00:57:10,354 [INFO] profit: 3313.234367 JOY with volume: 0.583195 BTC - buy at 2158753.0000 (CoincheckBTCJPY) sell at 2164080.0000 (BitflyerBTCJPY) ~0.26%
+2017-12-19 00:57:30,366 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:57:30,367 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:57:30,480 [INFO] profit: 4370.968065  with volume: 0.889448 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.23%
+2017-12-19 00:57:30,480 [INFO] profit: 4370.968065 JOY with volume: 0.889448 BTC - buy at 2159999.0000 (CoincheckBTCJPY) sell at 2164662.0000 (BitflyerBTCJPY) ~0.23%
+2017-12-19 00:57:50,483 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:57:50,484 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:57:51,720 [INFO] profit: 3490.959438  with volume: 0.647800 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.25%
+2017-12-19 00:57:51,720 [INFO] profit: 3490.959438 JOY with volume: 0.647800 BTC - buy at 2159650.0000 (CoincheckBTCJPY) sell at 2164804.0000 (BitflyerBTCJPY) ~0.25%
+2017-12-19 00:58:11,742 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:58:11,743 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:58:11,873 [INFO] profit: 1323.462900  with volume: 0.205700 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.30%
+2017-12-19 00:58:11,873 [INFO] profit: 1323.462900 JOY with volume: 0.205700 BTC - buy at 2159265.0000 (CoincheckBTCJPY) sell at 2164908.0000 (BitflyerBTCJPY) ~0.30%
+2017-12-19 00:58:31,880 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:58:31,881 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:58:36,996 [INFO] profit: 718.290817  with volume: 0.165426 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.20%
+2017-12-19 00:58:36,996 [INFO] profit: 718.290817 JOY with volume: 0.165426 BTC - buy at 2162048.0000 (CoincheckBTCJPY) sell at 2166196.0000 (BitflyerBTCJPY) ~0.20%
+2017-12-19 00:58:57,016 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:58:57,018 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:58:57,137 [INFO] profit: 1274.750247  with volume: 0.872156 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.07%
+2017-12-19 00:58:57,137 [INFO] profit: 1274.750247 JOY with volume: 0.872156 BTC - buy at 2165610.0000 (CoincheckBTCJPY) sell at 2166207.0000 (BitflyerBTCJPY) ~0.07%
+2017-12-19 00:59:17,154 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:59:17,155 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:59:17,265 [INFO] profit: 855.303486  with volume: 0.416518 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.09%
+2017-12-19 00:59:17,265 [INFO] profit: 855.303486 JOY with volume: 0.416518 BTC - buy at 2165000.0000 (CoincheckBTCJPY) sell at 2166992.0000 (BitflyerBTCJPY) ~0.09%
+2017-12-19 00:59:37,286 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 00:59:37,287 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 00:59:42,410 [INFO] profit: 214.276200  with volume: 0.084482 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.12%
+2017-12-19 00:59:42,410 [INFO] profit: 214.276200 JOY with volume: 0.084482 BTC - buy at 2165602.0000 (CoincheckBTCJPY) sell at 2167315.0000 (BitflyerBTCJPY) ~0.12%
+2017-12-19 01:00:02,446 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 01:00:02,449 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 01:00:07,628 [INFO] profit: 338.467173  with volume: 0.143430 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.11%
+2017-12-19 01:00:07,628 [INFO] profit: 338.467173 JOY with volume: 0.143430 BTC - buy at 2166200.0000 (CoincheckBTCJPY) sell at 2168202.0000 (BitflyerBTCJPY) ~0.11%
+2017-12-19 01:00:27,647 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 01:00:27,648 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 01:00:27,994 [INFO] profit: 843.783759  with volume: 0.386561 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.10%
+2017-12-19 01:00:27,994 [INFO] profit: 843.783759 JOY with volume: 0.386561 BTC - buy at 2167626.0000 (CoincheckBTCJPY) sell at 2168953.0000 (BitflyerBTCJPY) ~0.10%
+2017-12-19 01:00:48,012 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 01:00:48,018 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 01:00:53,147 [INFO] profit: 333.606336  with volume: 0.186548 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.08%
+2017-12-19 01:00:53,147 [INFO] profit: 333.606336 JOY with volume: 0.186548 BTC - buy at 2168999.0000 (CoincheckBTCJPY) sell at 2170500.0000 (BitflyerBTCJPY) ~0.08%
+2017-12-19 01:01:13,149 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 01:01:13,150 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 01:01:18,230 [INFO] profit: 3001.621854  with volume: 0.838911 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.17%
+2017-12-19 01:01:18,230 [INFO] profit: 3001.621854 JOY with volume: 0.838911 BTC - buy at 2167140.0000 (CoincheckBTCJPY) sell at 2170595.0000 (BitflyerBTCJPY) ~0.17%
+2017-12-19 01:01:38,247 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 01:01:38,249 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 01:01:43,336 [INFO] profit: 2791.736000  with volume: 0.589400 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.22%
+2017-12-19 01:01:43,336 [INFO] profit: 2791.736000 JOY with volume: 0.589400 BTC - buy at 2164150.0000 (CoincheckBTCJPY) sell at 2166230.0000 (BitflyerBTCJPY) ~0.22%
+2017-12-19 01:02:03,356 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 01:02:03,357 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 01:02:03,467 [INFO] profit: 312.538932  with volume: 0.228634 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.06%
+2017-12-19 01:02:03,467 [INFO] profit: 312.538932 JOY with volume: 0.228634 BTC - buy at 2166339.0000 (CoincheckBTCJPY) sell at 2167176.0000 (BitflyerBTCJPY) ~0.06%
+2017-12-19 01:02:23,472 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 01:02:23,473 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 01:02:28,646 [INFO] profit: 1524.568116  with volume: 0.968813 BTC - buy from CoincheckBTCJPY sell to BitflyerBTCJPY ~0.07%
+2017-12-19 01:02:28,646 [INFO] profit: 1524.568116 JOY with volume: 0.968813 BTC - buy at 2168999.0000 (CoincheckBTCJPY) sell at 2169000.0000 (BitflyerBTCJPY) ~0.07%
+2017-12-19 07:33:51,557 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 07:33:51,560 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 07:34:11,685 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 07:34:11,686 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 07:34:36,833 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 07:34:36,834 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 07:34:41,993 [INFO] profit: 13.724591  with volume: 0.141500 BTC - buy from BitflyerBTCJPY sell to CoincheckBTCJPY ~0.00%
+2017-12-19 07:34:41,993 [INFO] profit: 13.724591 JOY with volume: 0.141500 BTC - buy at 2159698.0000 (BitflyerBTCJPY) sell at 2159730.0000 (CoincheckBTCJPY) ~0.00%
+2017-12-19 07:35:02,009 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 07:35:02,011 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 07:35:02,136 [INFO] profit: 1.880000  with volume: 0.020000 BTC - buy from BitflyerBTCJPY sell to CoincheckBTCJPY ~0.00%
+2017-12-19 07:35:02,136 [INFO] profit: 1.880000 JOY with volume: 0.020000 BTC - buy at 2159698.0000 (BitflyerBTCJPY) sell at 2159791.0000 (CoincheckBTCJPY) ~0.00%
+2017-12-19 07:35:22,240 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 07:35:22,243 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 07:35:22,469 [INFO] profit: 201.601000  with volume: 0.205000 BTC - buy from BitflyerBTCJPY sell to CoincheckBTCJPY ~0.05%
+2017-12-19 07:35:22,470 [INFO] profit: 201.601000 JOY with volume: 0.205000 BTC - buy at 2159697.0000 (BitflyerBTCJPY) sell at 2159802.0000 (CoincheckBTCJPY) ~0.05%
+2017-12-19 07:35:42,492 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 07:35:42,494 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 07:36:02,650 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 07:36:02,653 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 07:36:07,822 [INFO] profit: 45.898000  with volume: 0.114000 BTC - buy from BitflyerBTCJPY sell to CoincheckBTCJPY ~0.02%
+2017-12-19 07:36:07,822 [INFO] profit: 45.898000 JOY with volume: 0.114000 BTC - buy at 2159698.0000 (BitflyerBTCJPY) sell at 2160083.0000 (CoincheckBTCJPY) ~0.02%
+2017-12-19 07:36:27,856 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 07:36:27,858 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 07:36:48,123 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 07:36:48,125 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 07:37:13,755 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 07:37:13,756 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 07:37:13,858 [INFO] profit: 20.480000  with volume: 0.110000 BTC - buy from BitflyerBTCJPY sell to CoincheckBTCJPY ~0.01%
+2017-12-19 07:37:13,859 [INFO] profit: 20.480000 JOY with volume: 0.110000 BTC - buy at 2157000.0000 (BitflyerBTCJPY) sell at 2157001.0000 (CoincheckBTCJPY) ~0.01%
+2017-12-19 07:37:33,862 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 07:37:33,863 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 07:37:33,957 [INFO] profit: 0.985000  with volume: 0.005000 BTC - buy from BitflyerBTCJPY sell to CoincheckBTCJPY ~0.01%
+2017-12-19 07:37:33,957 [INFO] profit: 0.985000 JOY with volume: 0.005000 BTC - buy at 2157000.0000 (BitflyerBTCJPY) sell at 2157001.0000 (CoincheckBTCJPY) ~0.01%
+2017-12-19 07:37:53,982 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 07:37:53,986 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 07:37:54,111 [INFO] profit: 46.824688  with volume: 0.113103 BTC - buy from BitflyerBTCJPY sell to CoincheckBTCJPY ~0.02%
+2017-12-19 07:37:54,111 [INFO] profit: 46.824688 JOY with volume: 0.113103 BTC - buy at 2154815.0000 (BitflyerBTCJPY) sell at 2155229.0000 (CoincheckBTCJPY) ~0.02%
+2017-12-19 07:38:14,132 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 07:38:14,133 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 07:38:14,227 [INFO] profit: 5.102984  with volume: 0.066973 BTC - buy from BitflyerBTCJPY sell to CoincheckBTCJPY ~0.00%
+2017-12-19 07:38:14,227 [INFO] profit: 5.102984 JOY with volume: 0.066973 BTC - buy at 2154000.0000 (BitflyerBTCJPY) sell at 2154001.0000 (CoincheckBTCJPY) ~0.00%
+2017-12-19 07:38:34,307 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 07:38:34,311 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 07:38:34,451 [INFO] profit: 158.147065  with volume: 1.231972 BTC - buy from BitflyerBTCJPY sell to CoincheckBTCJPY ~0.01%
+2017-12-19 07:38:34,451 [INFO] profit: 158.147065 JOY with volume: 1.231972 BTC - buy at 2155744.0000 (BitflyerBTCJPY) sell at 2155807.0000 (CoincheckBTCJPY) ~0.01%
+2017-12-19 07:38:54,554 [INFO] Starting new HTTPS connection (1): coincheck.com
+2017-12-19 07:38:54,559 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+2017-12-19 07:39:14,727 [INFO] Starting new HTTPS connection (1): api.bitflyer.jp
+
